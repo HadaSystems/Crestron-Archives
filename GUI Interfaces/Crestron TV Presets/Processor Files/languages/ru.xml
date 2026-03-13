@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lang locale="ru" name="Russian" variant="Russian">
+	<bundle id="crestron:tvpresets">
+		
+		<copy id="addItemText" ><![CDATA[XADD ITEM]]></copy>	
+		<copy id="editIconText" ><![CDATA[XEDIT ICON]]></copy>
+		<copy id="defaultNameText" ><![CDATA[XNAME]]></copy>
+		
+		<copy id="menuBarButton0" ><![CDATA[XMove]]></copy>	
+		<copy id="menuBarButton1" ><![CDATA[XEdit]]></copy>	
+		<copy id="menuBarButton2" ><![CDATA[XAdd]]></copy>	
+		<copy id="menuBarButton3" ><![CDATA[XDelete]]></copy>	
+		<copy id="menuBarButton4" ><![CDATA[XSettings]]></copy>	
+		
+		<copy id="tvpresetSettingsButtonSave" ><![CDATA[XSave]]></copy>	
+		<copy id="tvpresetSettingsButtonCancel" ><![CDATA[XCancel]]></copy>	
+		<copy id="tvpresetSettingsButtonExit" ><![CDATA[XExit]]></copy>	
+		
+		<copy id="settingsLabelSettings" ><![CDATA[XSETTINGS]]></copy>	
+		<copy id="settingsLabelSyncPresets" ><![CDATA[XSYNC PRESETS]]></copy>	
+		<copy id="settingsLabelProviderConfigLoc" ><![CDATA[XPROVIDER CONFIG LOCATION]]></copy>	
+		<copy id="settingsLabelSort" ><![CDATA[XSORT PRESETS BY]]></copy>	
+		
+		<copy id="settingsLabelSettings" ><![CDATA[XSETTINGS]]></copy>	
+		<copy id="settingsLabelSyncPresets" ><![CDATA[XSYNC PRESETS]]></copy>	
+		<copy id="settingsLabelProviderConfigLoc" ><![CDATA[XPROVIDER CONFIG LOCATION]]></copy>	
+		<copy id="settingsLabelSort" ><![CDATA[XSORT PRESETS BY]]></copy>
+		<copy id="settingsLabelPinRequiredOn" ><![CDATA[XPIN: On]]></copy>
+		<copy id="settingsLabelPinRequiredOff" ><![CDATA[XPIN: Off]]></copy>
+		<copy id="settingsLabelSetPin" ><![CDATA[XSET PIN]]></copy>
+		<copy id="settingsLabelUnsorted" ><![CDATA[XUnsorted]]></copy>
+		<copy id="settingsLabelChName" ><![CDATA[XChannel Name]]></copy>
+		<copy id="settingsLabelChNum" ><![CDATA[XChannel Number]]></copy>
+		<copy id="settingsLabelLang" ><![CDATA[XLanguage]]></copy>
+		
+		<copy id="promptListing" ><![CDATA[XSearch for the desired channel]]></copy>
+		<copy id="promptIcon" ><![CDATA[XSearch for the desired icon]]></copy>
+		<copy id="promptNoResults" ><![CDATA[XNo results found]]></copy>
+		
+		<copy id="titleEditPreset" ><![CDATA[XEDIT PRESET]]></copy>
+		<copy id="titleAddPreset" ><![CDATA[XADD PRESET]]></copy>
+		
+		<copy id="buttonList" ><![CDATA[Xbutton]]></copy>
+		<copy id="iconList" ><![CDATA[Xicon]]></copy>
+		<copy id="listingPrompt" ><![CDATA[XType in first few letters of channel you are looking for]]></copy>
+		<copy id="iconPrompt" ><![CDATA[XSearch for the desired icon]]></copy>
+		<copy id="noResults" ><![CDATA[XNo results found]]></copy>
+		<copy id="editIconTitle" ><![CDATA[XEDIT ICON]]></copy>
+		
+		<copy id="modalEnterPin" ><![CDATA[XENTER PIN]]></copy>
+		<copy id="modalSetPin" ><![CDATA[XSET PIN]]></copy>
+		<copy id="modalInvalidPin" ><![CDATA[XINVALID PIN!]]></copy>
+		<copy id="modalOkButton" ><![CDATA[X...OK]]></copy>
+		<copy id="keypadClear" ><![CDATA[XClear]]></copy>
+		<copy id="keypadEnter" ><![CDATA[XEnter]]></copy>
+
+	</bundle>
+	
+</lang>

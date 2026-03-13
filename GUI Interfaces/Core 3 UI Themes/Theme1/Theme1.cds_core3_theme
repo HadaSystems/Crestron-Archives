@@ -1,0 +1,30 @@
+{
+  "_serializationVersion": 1,
+  "_serializedObject": "{
+  \"$id\": \"1\",
+  \"_name\": \"Theme1\",
+  \"_id\": \"D3D98670DF39F1E9\",
+  \"_metadata\": {
+    \"$id\": \"2\",
+    \"_internalImages\": [],
+    \"_metadataVersion\": 2,
+    \"_metadataCompatibleVersion\": 0,
+    \"_category\": \"\",
+    \"_creationDateTime\": \"2011-01-27T07:54:05.713-08:00\",
+    \"_lastOpenedDateTime\": \"2018-02-27T14:14:29.3204666-08:00\",
+    \"_lastSavedDateTime\": \"2018-05-07T19:54:44.5247524-07:00\",
+    \"_lastSavedByApp\": \"Crestron Studio\",
+    \"_lastSavedByAppVersion\": \"1.71.32.0\",
+    \"_wasClosedCleanly\": true,
+    \"_lastKnownState\": 0,
+    \"_inUseByProcessId\": 0,
+    \"_sharedFolderPathKey\": \"\"
+  },
+  \"_projectHandleVersion\": 0,
+  \"_projectHandleCompatibleVersion\": 0
+}",
+  "_options": {
+    "_isStringFormatted": true,
+    "_flags": 0
+  }
+}

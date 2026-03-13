@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Provider Name="Provider Sample 2" >
+	<Stations>
+		<Station Image="A&E.png" Name="A&E" Channel="265" />
+		<Station Image="ABCFamily.png" Name="ABC Family" Channel="311" />
+		<Station Image="AMC.png" Name="AMC" Channel="254" />
+		<Station Image="AudienceNetwork.png" Name="Audience Network" Channel="239" />
+		<Station Image="AXSTV.png" Name="AXSTV" Channel="340" />
+		<Station Image="BET.png" Name="BET" Channel="329" />
+		<Station Image="CartoonNetwork.png" Name="Cartoon Network" Channel="296" />
+		<Station Image="Chiller.png" Name="Chiller" Channel="257" />
+		<Station Image="Cloo.png" Name="Cloo" Channel="308" />
+		<Station Image="CNBC.png" Name="CNBC" Channel="355" />
+		<Station Image="CNBCWorld.png" Name="CNBC World" Channel="357" />
+		<Station Image="CNN.png" Name="CNN" Channel="202" />
+		<Station Image="ComedyCentral.png" Name="Comedy Central" Channel="249" />
+		<Station Image="CookingChannel.png" Name="Cooking Channel" Channel="232" />
+		<Station Image="CSPAN.png" Name="CSPAN" Channel="350" />
+		<Station Image="CSPAN2.png" Name="CSPAN2" Channel="351" />
+		<Station Image="CTN.png" Name="CTN" Channel="376" />
+		<Station Image="Daystar.png" Name="Daystar" Channel="57" />
+	</Stations>
+</Provider>

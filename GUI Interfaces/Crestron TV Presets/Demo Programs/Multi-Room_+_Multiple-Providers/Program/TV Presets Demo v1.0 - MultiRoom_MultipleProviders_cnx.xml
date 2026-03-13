@@ -1,0 +1,266 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type="text/xsl " href=" D:\Crestron\Simpl\ConnectionSheet.xsl "?> 
+<connectionSheet>
+<systemName></systemName>
+<designer></designer>
+<dealer></dealer>
+<jobNumber></jobNumber>
+<created>12/12/14 - 05:28:05 PM</created>
+<modified>01/09/15 - 03:42:59 PM</modified>
+<appPath>D:\Crestron\Simpl\</appPath>
+<device type="controlSystem">
+<model>MC3.</model>
+<device>
+ <address prefix = "Slot" >01</address>
+<name>C2I-MC3CNET-1</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3CNET-1</model>
+<location></location>
+</device>
+<device>
+ <address prefix = "Slot" >02</address>
+<name>C2I-MC3ENET-1</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3ENET-1</model>
+<location></location>
+<device>
+ <address prefix = "IP-ID" >03</address>
+<name>XPanel 2.0 Smart Graphics</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>XPanel 2.0 Smart Graphics</model>
+<location></location>
+</device>
+<device>
+ <address prefix = "IP-ID" >04</address>
+<name>TSW-1050</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>TSW-1050</model>
+<location></location>
+<device>
+ <address prefix = "Slot" >01</address>
+<name>TSW-1050 Buttons</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>TSW-1050 Buttons</model>
+<location></location>
+</device>
+</device>
+<device>
+ <address prefix = "IP-ID" >05</address>
+<name>TSW-750</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>TSW-750</model>
+<location></location>
+<device>
+ <address prefix = "Slot" >01</address>
+<name>TSW-750 Buttons</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>TSW-750 Buttons</model>
+<location></location>
+</device>
+</device>
+<device>
+ <address prefix = "IP-ID" >06</address>
+<name>TSW-550</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>TSW-550</model>
+<location></location>
+<device>
+ <address prefix = "Slot" >01</address>
+<name>TSW-550 Buttons</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>TSW-550 Buttons</model>
+<location></location>
+</device>
+</device>
+<device>
+ <address prefix = "IP-ID" >07</address>
+<name>TPMC-8X-GA</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>TPMC-8X-GA</model>
+<location></location>
+</device>
+</device>
+<device>
+ <address prefix = "Slot" >03</address>
+<name>C2I-MC3RFGW-EX</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3RFGW-EX</model>
+<location></location>
+</device>
+<device>
+ <address prefix = "Slot" >04</address>
+<name>C2I-MC3-COM2-232</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3-COM2-232</model>
+<location></location>
+<device>
+ <address prefix = "COM" >01</address>
+<name>MC3 Two-way serial driver</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>MC3 Two-way serial driver</model>
+<location></location>
+</device>
+<device>
+ <address prefix = "COM" >02</address>
+<name>MC3 Two-way serial driver</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>MC3 Two-way serial driver</model>
+<location></location>
+</device>
+</device>
+<device>
+ <address prefix = "Slot" >05</address>
+<name>C2I-MC3-RY2</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3-RY2</model>
+<location></location>
+<device>
+ <address prefix = "Port" >01</address>
+<name>Relay</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>Relay</model>
+<location></location>
+</device>
+<device>
+ <address prefix = "Port" >02</address>
+<name>Relay</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>Relay</model>
+<location></location>
+</device>
+</device>
+<device>
+ <address prefix = "Slot" >06</address>
+<name>C2I-MC3-DI2</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3-DI2</model>
+<location></location>
+<device>
+ <address prefix = "Port" >01</address>
+<name>DI-Port</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>DI-Port</model>
+<location></location>
+</device>
+<device>
+ <address prefix = "Port" >02</address>
+<name>DI-Port</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>DI-Port</model>
+<location></location>
+</device>
+</device>
+<device>
+ <address prefix = "Slot" >07</address>
+<name>C2I-MC3-IR5</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3-IR5</model>
+<location></location>
+</device>
+<device>
+ <address prefix = "Slot" >08</address>
+<name>C2I-MC3-IR-INPUT</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3-IR-INPUT</model>
+<location></location>
+</device>
+<device>
+ <address prefix = "Slot" >09</address>
+<name>C2I-MC3-AUDIO</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3-AUDIO</model>
+<location></location>
+<device>
+ <address prefix = "Slot" >01</address>
+<name>C2I-MC3-AUDIO-OUT</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3-AUDIO-OUT</model>
+<location></location>
+</device>
+</device>
+<device>
+ <address prefix = "Slot" >11</address>
+<name>C2I-MC3-SYSTEMMONITOR</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3-SYSTEMMONITOR</model>
+<location></location>
+<device>
+ <address prefix = "Slot" >01</address>
+<name>C2I-MC3-SYSTEMCONTROL</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3-SYSTEMCONTROL</model>
+<location></location>
+</device>
+<device>
+ <address prefix = "Slot" >02</address>
+<name>C2I-MC3-SYSTEMINFORMATION</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3-SYSTEMINFORMATION</model>
+<location></location>
+</device>
+<device>
+ <address prefix = "Slot" >04</address>
+<name>C2I-MC3-USERPROGINIT</name>
+<function></function>
+<equipment></equipment>
+<notes></notes>
+<model>C2I-MC3-USERPROGINIT</model>
+<location></location>
+</device>
+</device>
+</device>
+</connectionSheet>
